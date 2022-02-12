@@ -9,7 +9,9 @@ I am passionate about any subject that involves technology, especially in the ar
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=claudneysessa&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=claudneysessa&layout=compact&langs_count=7&theme=dracula"/>
 </div>
+  
+<div align="center">
  
-  ![Snake animation](https://github.com/claudneysessa/claudneysessa/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://raw.githubusercontent.com/claudneysessa/claudneysessa/27a8638d52a168508295a6e0dd01c2a876b4acdb/github-contribution-grid-snake.svg)
  
 </div>
