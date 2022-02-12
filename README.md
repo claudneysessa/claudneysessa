@@ -1,16 +1,15 @@
-### Hi there 👋
+# Hi, I'm Claudney Sarti Sessa
+## About me
+I have a bachelor's degree in Information Systems and a Specialization in Software Engineering, I am a dedicated professional, I consider myself self-taught when it comes to technology, I am creative, dedicated and I have a good interpersonal relationship, which makes me able to add value to any team. where I fit.
 
-<!--
-**claudneysessa/claudneysessa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am passionate about any subject that involves technology, especially in the area of system development, I love solving problems and innovating. I studied at FAESA and, at the moment, I work as a full stack developer for both desktop windows systems with Delpji/Object Pascal and on the mobile part with dart/flutter. I always try to keep up to date with new technologies, especially issues involving mobile development. I have experience with cross-platform mobile development with Dart/Flutter, desktop application development using Delphi/Object Pascal, and also in the WEB area using HTML, CSS, Javascript.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <a href="https://github.com/claudneysessa">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=claudneysessa&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=claudneysessa&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+ 
+  ![Snake animation](https://github.com/claudneysessa/claudneysessa/blob/output/github-contribution-grid-snake.svg)
+ 
+</div>
