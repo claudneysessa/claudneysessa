@@ -13,16 +13,16 @@ I am passionate about any subject that involves technology, especially in the ar
 I always try to keep up to date with new technologies, especially issues involving mobile development. I have experience with cross-platform mobile development with Dart/Flutter, desktop application development using Delphi/Object Pascal, and also in the WEB area using HTML, CSS, Javascript.
 </p>
 </br>
+
 <div align="center">
   <a href="https://github.com/claudneysessa">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=claudneysessa&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=claudneysessa&layout=compact&langs_count=7&theme=dracula"/>
+  </a>
 </div>
   
 <div align="center">
- 
   <img src="https://raw.githubusercontent.com/claudneysessa/claudneysessa/27a8638d52a168508295a6e0dd01c2a876b4acdb/github-contribution-grid-snake.svg"/>
- 
 </div>
 
 ## Contato
