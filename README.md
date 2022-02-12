@@ -21,11 +21,10 @@ I always try to keep up to date with new technologies, especially issues involvi
   
 <div align="center">
  
-  ![Snake animation](https://raw.githubusercontent.com/claudneysessa/claudneysessa/27a8638d52a168508295a6e0dd01c2a876b4acdb/github-contribution-grid-snake.svg)
+  <img src="https://raw.githubusercontent.com/claudneysessa/claudneysessa/27a8638d52a168508295a6e0dd01c2a876b4acdb/github-contribution-grid-snake.svg"/>
  
 </div>
 
 ## Contato
-
-Instagram: <a href="https://www.instagram.com/claudneysessa/">https://www.instagram.com/claudneysessa/</a><br>
-LinkedIn: <a href="https://www.linkedin.com/in/claudneysessa/">https://www.linkedin.com/in/claudneysessa/</a><br>
+ - Instagram: [https://www.instagram.com/claudneysessa/](https://www.instagram.com/claudneysessa/)
+ - Linkedin: [https://www.linkedin.com/in/claudneysessa/](https://www.linkedin.com/in/claudneysessa/)
