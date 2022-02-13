@@ -40,7 +40,7 @@ Procuro sempre me manter atualizado com as novas tecnologias, principalmente que
 <br/>
   
 <div align="center">
-    <a href="https://www.youtube.com/channel/UC_-uuuZbY0AAt9CViNzvc-Q" target="_blank">
+    <a href="https://www.youtube.com/channel/UC52P3HVpmOMHjkmIhcjLRyQ" target="_blank">
       <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank">
     </a>
     <a href="https://instagram.com/claudneysessa" target="_blank">
