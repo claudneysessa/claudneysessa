@@ -38,7 +38,9 @@ Procuro sempre me manter atualizado com as novas tecnologias, principalmente que
 </div>
 
 <br/>
-  
+
+# Where to find me
+
 <div align="center">
     <a href="https://www.youtube.com/channel/UC52P3HVpmOMHjkmIhcjLRyQ" target="_blank">
       <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank">
@@ -51,6 +53,9 @@ Procuro sempre me manter atualizado com as novas tecnologias, principalmente que
     </a>
     <a href="https://www.linkedin.com/in/claudneysessa/" target="_blank">
       <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+    </a>
+    <a href="https://medium.com/@claudneysartisessa" target="_blank">
+      <img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />
     </a>
     <img src="https://raw.githubusercontent.com/claudneysessa/claudneysessa/27a8638d52a168508295a6e0dd01c2a876b4acdb/github-contribution-grid-snake.svg"/>
 </div>
