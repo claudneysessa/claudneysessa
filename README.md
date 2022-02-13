@@ -39,6 +39,33 @@ Procuro sempre me manter atualizado com as novas tecnologias, principalmente que
 
 <br/>
 
+<h2 align="left" id="macropower-tech">Favorite Tech</h2>
+
+> Tools, languages, and other things that I like to work with.
+
+<table>
+  <tr>
+    <td align="center" width="96">
+      <a href="#Dart-tech">
+        <img align="center" alt="devcss-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pascal/pascal-plain.svg">
+      </a>
+      <br>Delphi
+    </td>
+    <td align="center" width="96">
+      <a href="#Dart-tech">
+        <img align="center" alt="devcss-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-plain.svg">
+      </a>
+      <br>Dart
+    </td>
+    <td align="center" width="96">
+      <a href="#flutter-tech">
+        <img align="center" alt="devcss-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-plain.svg">
+      </a>
+      <br>Flutter
+    </td>
+  </tr>
+</table>
+
 # Where to find me
 
 <div align="center">
