@@ -89,6 +89,11 @@ Tools, languages, and other things that I like to work with.
         <img align="center" alt="devcss-Js" height="65" width="65" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
       </a>
     </td>
+    <td align="center" width="96">
+      <a href="#NodeJS-tech">
+        <img align="center" alt="devcss-Js" height="65" width="65" src="https://github.com/claudneysessa/claudneysessa/blob/main/images/language_icons/node.png?raw=true">
+      </a>
+    </td>
   </tr>
 </table>
   </div>
