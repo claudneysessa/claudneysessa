@@ -49,19 +49,14 @@ Tools, languages, and other things that I like to work with.
 
 <table border="0">
   <tr>
-    <td align="center" width="96">
-      <a href="#Delphi-tech">
-        <img align="center" alt="devcss-Js" height="65" width="65" src="https://github.com/claudneysessa/claudneysessa/blob/main/images/language_icons/delphi-plain.png?raw=true">
+      <td align="center" width="96">
+      <a href="#Dart-tech">
+        <img align="center" alt="devcss-Js" height="65" width="65" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-plain.svg">
       </a>
     </td>
     <td align="center" width="96">
-      <a href="#HashLoadHorse-tech">
-        <img align="center" alt="devcss-Js" height="65" width="65" src="https://github.com/claudneysessa/claudneysessa/blob/main/images/language_icons/horse.png?raw=true">
-      </a>
-    </td>
-    <td align="center" width="96">
-      <a href="#Android-tech">
-        <img align="center" alt="devcss-Js" height="65" width="65" src="https://github.com/claudneysessa/claudneysessa/blob/main/images/language_icons/android-svg.png?raw=true">
+      <a href="#flutter-tech">
+        <img align="center" alt="devcss-Js" height="65" width="65" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-plain.svg">
       </a>
     </td>
     <td align="center" width="96">
@@ -75,13 +70,18 @@ Tools, languages, and other things that I like to work with.
       </a>
     </td>
     <td align="center" width="96">
-      <a href="#Dart-tech">
-        <img align="center" alt="devcss-Js" height="65" width="65" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-plain.svg">
+      <a href="#Delphi-tech">
+        <img align="center" alt="devcss-Js" height="65" width="65" src="https://github.com/claudneysessa/claudneysessa/blob/main/images/language_icons/delphi-plain.png?raw=true">
       </a>
     </td>
     <td align="center" width="96">
-      <a href="#flutter-tech">
-        <img align="center" alt="devcss-Js" height="65" width="65" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-plain.svg">
+      <a href="#HashLoadHorse-tech">
+        <img align="center" alt="devcss-Js" height="65" width="65" src="https://github.com/claudneysessa/claudneysessa/blob/main/images/language_icons/horse.png?raw=true">
+      </a>
+    </td>
+    <td align="center" width="96">
+      <a href="#Android-tech">
+        <img align="center" alt="devcss-Js" height="65" width="65" src="https://github.com/claudneysessa/claudneysessa/blob/main/images/language_icons/android-svg.png?raw=true">
       </a>
     </td>
     <td align="center" width="96">
