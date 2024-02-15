@@ -39,11 +39,11 @@ I always try to keep up to date with new technologies, especially issues involvi
 
 <br/>
 
-# Favorite Tech
+# Tecnologias Favoritas
 
 <div align="center">
   
-Tools, languages, and other things that I like to work with.
+Ferramentas, linguagens e outras coisas com as quais gosto de trabalhar.
   
 <br/>
 
@@ -98,7 +98,7 @@ Tools, languages, and other things that I like to work with.
 </table>
   </div>
 
-# Where to find me
+# Onde me encontrar?
 
 <div align="center">
     <a href = "mailto:claudneysartisessa@gmail.com">
