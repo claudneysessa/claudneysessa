@@ -1,10 +1,5 @@
 # Claudney Sarti Sessa
 
-<a href="https://claudneysessa.github.io/">
-  <img src="./assets/banner.svg" width="880"
-       alt="Terminal: guest@crt:~$ claudney_sarti_sessa --portfolio — five AI projects that run in your own browser, at claudneysessa.github.io">
-</a>
-
 Bachelor's in Information Systems, with **over 20 years of experience** in ERP and
 systems built around Brazilian tax legislation — especially **electronic fiscal
 documents**. It is a domain that does not forgive mistakes: one wrong tax rule
@@ -19,7 +14,12 @@ Personal projects with one common thread: **inference runs in the visitor's own
 browser**. No AI server, no account, no data leaving the device. All of them have
 a live demo and open source code.
 
-### → <https://claudneysessa.github.io/>
+<a href="https://claudneysessa.github.io/">
+  <img src="./assets/banner.svg" width="880"
+       alt="Terminal: guest@crt:~$ claudney_sarti_sessa --portfolio — five AI projects that run in your own browser, at claudneysessa.github.io">
+</a>
+
+**→ <https://claudneysessa.github.io/>**
 
 The portfolio is the single place where the project list lives, so it never
 disagrees with itself.
@@ -53,11 +53,6 @@ up in this profile's language statistics.
 
 <br>
 
-<a href="https://claudneysessa.github.io/?lang=pt">
-  <img src="./assets/banner.svg" width="880"
-       alt="Terminal: guest@crt:~$ claudney_sarti_sessa --portfolio — cinco projetos de IA que rodam no seu próprio navegador, em claudneysessa.github.io">
-</a>
-
 Bacharel em Sistemas de Informação, com **mais de 20 anos de experiência** em ERP
 e em sistemas voltados à área fiscal brasileira — com destaque para **documentos
 eletrônicos**. É um domínio que não perdoa erro: regra fiscal errada gera
@@ -72,7 +67,12 @@ Projetos autorais com um fio condutor: **a inferência roda no navegador de quem
 visita**. Sem servidor de IA, sem conta, sem enviar dados para fora do
 dispositivo. Todos têm demonstração ao vivo e código aberto.
 
-#### → <https://claudneysessa.github.io/?lang=pt>
+<a href="https://claudneysessa.github.io/?lang=pt">
+  <img src="./assets/banner.svg" width="880"
+       alt="Terminal: guest@crt:~$ claudney_sarti_sessa --portfolio — cinco projetos de IA que rodam no seu próprio navegador, em claudneysessa.github.io">
+</a>
+
+**→ <https://claudneysessa.github.io/?lang=pt>**
 
 O portfólio é o único lugar onde a lista de projetos vive, então ela nunca
 discorda de si mesma.
