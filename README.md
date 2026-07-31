@@ -1,11 +1,10 @@
 # Claudney Sarti Sessa
 
-Bachelor's in Information Systems, with **over 20 years of experience** in ERP and
-systems built around Brazilian tax legislation — especially **electronic fiscal
-documents**. It is a domain that does not forgive mistakes: one wrong tax rule
-means contingency mode, fines and real losses for whoever depends on the system.
+Bachelor's in Information Systems, with **over 20 years of experience** building
+**enterprise systems** — the kind that runs in production, with people depending
+on them every day.
 
-I am **a senior developer** and I program in **Delphi, Flutter and .NET**, and I
+I am **a senior developer**, I focus on **.NET, Flutter and JavaScript**, and I
 work with **applied AI and prompt engineering**.
 
 ## Portfolio
@@ -26,9 +25,8 @@ disagrees with itself.
 
 ## Stack
 
-**Delphi / Object Pascal** and **.NET** for the ERP and fiscal systems where most
-of my two decades went. **Dart / Flutter** for mobile. **JavaScript, TypeScript,
-HTML and CSS** on the web, which is where the AI experiments live.
+**.NET** for enterprise systems, **Dart / Flutter** for mobile, and
+**JavaScript / TypeScript** on the web — which is where the AI experiments live.
 
 Most of that experience is in private corporate repositories, so it does not show
 up in this profile's language statistics.
@@ -53,12 +51,11 @@ up in this profile's language statistics.
 
 <br>
 
-Bacharel em Sistemas de Informação, com **mais de 20 anos de experiência** em ERP
-e em sistemas voltados à área fiscal brasileira — com destaque para **documentos
-eletrônicos**. É um domínio que não perdoa erro: regra fiscal errada gera
-contingência, autuação e prejuízo real para quem depende do sistema.
+Bacharel em Sistemas de Informação, com **mais de 20 anos de experiência**
+construindo **sistemas corporativos** — do tipo que roda em produção, com gente
+dependendo deles todos os dias.
 
-Sou **desenvolvedor sênior** e programo em **Delphi, Flutter e .NET**, e atuo com
+Sou **desenvolvedor sênior**, foco em **.NET, Flutter e JavaScript**, e atuo com
 **IA aplicada e engenharia de prompts**.
 
 ### Portfólio
@@ -79,9 +76,8 @@ discorda de si mesma.
 
 ### Stack
 
-**Delphi / Object Pascal** e **.NET** nos sistemas de ERP e fiscal onde foi a
-maior parte das duas décadas. **Dart / Flutter** no mobile. **JavaScript,
-TypeScript, HTML e CSS** na web, que é onde vivem os experimentos de IA.
+**.NET** em sistemas corporativos, **Dart / Flutter** no mobile e
+**JavaScript / TypeScript** na web — que é onde vivem os experimentos de IA.
 
 A maior parte dessa experiência está em repositórios corporativos privados, então
 não aparece nas estatísticas de linguagem deste perfil.
