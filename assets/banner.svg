@@ -11,12 +11,21 @@
       <stop offset="100%" stop-color="#4ADE80" stop-opacity="0"/>
     </radialGradient>
 
+    <!-- Sombra: faz a peça ler como objeto sobre a página, e não como mancha.
+         É o que a mantém coerente tanto no tema escuro quanto no claro. -->
+    <filter id="drop" x="-6%" y="-22%" width="112%" height="145%">
+      <feDropShadow dx="0" dy="4" stdDeviation="5" flood-color="#000" flood-opacity="0.28"/>
+    </filter>
+
     <clipPath id="screen">
-      <rect x="1" y="1" width="878" height="148" rx="10"/>
+      <rect x="4" y="4" width="872" height="142" rx="10"/>
     </clipPath>
   </defs>
 
-  <rect x="0.5" y="0.5" width="879" height="149" rx="10" fill="#05070A" stroke="#16221A"/>
+  <!-- Bisel em cinza neutro: precisa ser visível, senão a peça se dissolve no
+       fundo do tema escuro do GitHub e o texto parece flutuar. -->
+  <rect x="3.5" y="3.5" width="873" height="143" rx="10" fill="#05070A"
+        stroke="#1F2630" filter="url(#drop)"/>
   <g clip-path="url(#screen)">
     <rect width="880" height="150" fill="url(#glow)"/>
     <rect width="880" height="150" fill="url(#scan)"/>
