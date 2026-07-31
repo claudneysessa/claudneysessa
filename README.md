@@ -1,124 +1,142 @@
-# Olá, sou Claudney Sarti Sessa
-## Sobre mim
+# Claudney Sarti Sessa
 
-<p align="justify">
-Sou bacharel em Sistemas de Informação e Especializado em Engenharia de Software, sou um profissional dedicado, me considero autodidata quando o assunto é tecnologia, sou criativo, dedicado e tenho um bom relacionamento interpessoal, o que me torna capaz agregar valor a qualquer equipe onde eu me encaixe.
-</p>
+```console
+$ whoami
+claudney_sarti_sessa — senior developer · ERP & e-invoicing · applied AI
+```
 
-<p align="justify">
-Sou apaixonado por qualquer assunto que envolva tecnologia, principalmente na área de desenvolvimento de sistemas, adoro resolver problemas e inovar. Estudei na FAESA e, no momento, trabalho como desenvolvedor full stack tanto para sistemas Windows desktop com Object Pascal/Delphi quanto na parte mobile com dart/flutter.
-</p>
+**Portfolio →** <https://claudneysessa.github.io/>
 
-<p align="justify">
-Procuro sempre me manter atualizado com as novas tecnologias, principalmente questões envolvendo desenvolvimento mobile. Tenho experiência com desenvolvimento mobile multiplataforma com Dart/Flutter, desenvolvimento de aplicações desktop utilizando Delphi/Object Pascal, e também na área WEB utilizando HTML, CSS, Javascript.
-</p>
-</br>
+Bachelor's in Information Systems, with **over 20 years of experience** in ERP and
+systems built around Brazilian tax legislation — especially **electronic fiscal
+documents**. It is a domain that does not forgive mistakes: one wrong tax rule
+means contingency mode, fines and real losses for whoever depends on the system.
 
-# Hi, I'm Claudney Sarti Sessa
-## About me
+I am **a senior developer** and I program in **Delphi, Flutter and .NET**, and I
+work with **applied AI and prompt engineering**. The projects below are where I
+take that practice into the browser — and where I show the reasoning behind the
+solution, not just the result.
 
-<p align="justify">
-I have a bachelor's degree in Information Systems and a Specialization in Software Engineering, I am a dedicated professional, I consider myself self-taught when it comes to technology, I am creative, dedicated and I have a good interpersonal relationship, which makes me able to add value to any team where I fit.
-</p>
+## Projects
 
-<p align="justify">
-I am passionate about any subject that involves technology, especially in the area of system development, I love solving problems and innovating. I studied at FAESA and, at the moment, I work as a full stack developer for both desktop windows systems with Object Pascal/Delphi and on the mobile part with dart/flutter.
-</p>
+Five personal projects with one common thread: **inference runs in the visitor's
+own browser**. No AI server, no account, no data leaving the device. All of them
+have a live demo and open source code.
 
-<p align="justify">
-I always try to keep up to date with new technologies, especially issues involving mobile development. I have experience with cross-platform mobile development with Dart/Flutter, desktop application development using Delphi/Object Pascal, and also in the WEB area using HTML, CSS, Javascript.
-</p>
-</br>
+### Language models in the browser
 
-<div align="center">
-  <a href="https://github.com/claudneysessa">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=claudneysessa&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=claudneysessa&layout=compact&langs_count=7&theme=dracula"/>
-  </a>
-</div>
+| Project | What it is | |
+|---|---|---|
+| **IAí?** | A chat with an LLM running entirely in the browser: persistent conversations, search with source citation, independent clearing of history and model cache. | [demo](https://claudneysessa.github.io/in-browser-ai-chat/) · [code](https://github.com/claudneysessa/in-browser-ai-chat) |
+| **IA de Bolso** | The same model and parameters, reduced to the minimum: three static files, zero installable dependencies, no build step. | [demo](https://claudneysessa.github.io/pocket-browser-ai/) · [code](https://github.com/claudneysessa/pocket-browser-ai) |
 
-<br/>
+### Computer vision in the browser
 
-# Tecnologias Favoritas
+| Project | What it is | |
+|---|---|---|
+| **Libras Lab** | Recognises still images of letters from the Brazilian Sign Language manual alphabet, with a model I trained on Teachable Machine. A v0.1 baseline — **not** a Libras translator: Libras involves movement, space, facial expression and its own grammar. | [demo](https://claudneysessa.github.io/libras-lab/) · [code](https://github.com/claudneysessa/libras-lab) |
+| **Cratebound** | Puzzle game controlled by hand gestures captured through the webcam, where computer vision is the interface. | [play](https://claudneysessa.github.io/cratebound/) · [code](https://github.com/claudneysessa/cratebound) |
 
-<div align="center">
-  
-Ferramentas, linguagens e outras coisas com as quais gosto de trabalhar.
-  
-<br/>
+### Recommendation and data
 
-<table border="0">
-  <tr>
-      <td align="center" width="96">
-      <a href="#Dart-tech">
-        <img align="center" alt="devcss-Js" height="65" width="65" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-plain.svg">
-      </a>
-    </td>
-    <td align="center" width="96">
-      <a href="#flutter-tech">
-        <img align="center" alt="devcss-Js" height="65" width="65" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-plain.svg">
-      </a>
-    </td>
-    <td align="center" width="96">
-      <a href="#AndroidStudio-tech">
-        <img align="center" alt="devcss-Js" height="65" width="65" src="https://github.com/claudneysessa/claudneysessa/blob/main/images/language_icons/android%20studio.png?raw=true">
-      </a>
-    </td>
-    <td align="center" width="96">
-      <a href="#VisualStudioCode-tech">
-        <img align="center" alt="devcss-Js" height="65" width="65" src="https://github.com/claudneysessa/claudneysessa/blob/main/images/language_icons/visual%20studio%20code.png?raw=true">
-      </a>
-    </td>
-    <td align="center" width="96">
-      <a href="#Delphi-tech">
-        <img align="center" alt="devcss-Js" height="65" width="65" src="https://github.com/claudneysessa/claudneysessa/blob/main/images/language_icons/delphi-plain.png?raw=true">
-      </a>
-    </td>
-    <td align="center" width="96">
-      <a href="#HashLoadHorse-tech">
-        <img align="center" alt="devcss-Js" height="65" width="65" src="https://github.com/claudneysessa/claudneysessa/blob/main/images/language_icons/horse.png?raw=true">
-      </a>
-    </td>
-    <td align="center" width="96">
-      <a href="#Android-tech">
-        <img align="center" alt="devcss-Js" height="65" width="65" src="https://github.com/claudneysessa/claudneysessa/blob/main/images/language_icons/android-svg.png?raw=true">
-      </a>
-    </td>
-    <td align="center" width="96">
-      <a href="#JavaScript-tech">
-        <img align="center" alt="devcss-Js" height="65" width="65" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-      </a>
-    </td>
-    <td align="center" width="96">
-      <a href="#NodeJS-tech">
-        <img align="center" alt="devcss-Js" height="65" width="65" src="https://github.com/claudneysessa/claudneysessa/blob/main/images/language_icons/node.png?raw=true">
-      </a>
-    </td>
-  </tr>
-</table>
-  </div>
+| Project | What it is | |
+|---|---|---|
+| **VincuPet** | Recommender that matches family routine, space and real needs against each pet's profile to support responsible adoption, with explainable compatibility. An evolution of an academic baseline. | [demo](https://claudneysessa.github.io/vincupet/) · [code](https://github.com/claudneysessa/vincupet) |
 
-# Onde me encontrar?
+## Stack
 
-<div align="center">
-    <a href = "mailto:claudneysartisessa@gmail.com">
-      <img src="https://img.shields.io/badge/-claudneysessa-%23333?style=flat&logo=gmail&logoColor=white" target="_blank">
-    </a>
-    <a href="https://www.linkedin.com/in/claudneysessa/" target="_blank">
-      <img src="https://img.shields.io/badge/-claudneysessa-%230077B5?style=flat&logo=linkedin&logoColor=white" target="_blank">
-    </a>
-    <a href="https://instagram.com/claudneysessa" target="_blank">
-      <img src="https://img.shields.io/badge/-claudneysessa-%23E4405F?style=flat&logo=instagram&logoColor=white" target="_blank">
-    </a>
-    <a href="https://www.youtube.com/channel/UC52P3HVpmOMHjkmIhcjLRyQ" target="_blank">
-      <img src="https://img.shields.io/badge/-claudneysessa-FF0000?style=flat&logo=youtube&logoColor=white" target="_blank">
-    </a>
-    <a href="https://medium.com/@claudneysartisessa" target="_blank">
-      <img src="https://img.shields.io/badge/-claudneysessa-%2312100E.svg?&style=flat&logo=medium&logoColor=white" target="_blank"/>
-    </a>
-    <img src="https://raw.githubusercontent.com/claudneysessa/claudneysessa/27a8638d52a168508295a6e0dd01c2a876b4acdb/github-contribution-grid-snake.svg"/>
-</div>
+**Delphi / Object Pascal** and **.NET** for the ERP and fiscal systems where most
+of my two decades went. **Dart / Flutter** for mobile. **JavaScript, TypeScript,
+HTML and CSS** on the web, which is where the AI experiments above live.
 
-## Contatos
- - Instagram: [https://www.instagram.com/claudneysessa/](https://www.instagram.com/claudneysessa/)
- - Linkedin: [https://www.linkedin.com/in/claudneysessa/](https://www.linkedin.com/in/claudneysessa/)
+Most of that experience is in private corporate repositories, so it does not show
+up in this profile's language statistics.
+
+## Education
+
+- **Software Engineering with Applied AI** — postgraduate, in progress
+- **Software Engineering** — postgraduate
+- **Big Data and Analytics** — postgraduate
+- **Information Systems** — BSc, FAESA
+
+## Where to find me
+
+[github.com/claudneysessa](https://github.com/claudneysessa) ·
+[linkedin.com/in/claudneysessa](https://www.linkedin.com/in/claudneysessa/) ·
+[medium.com/@claudneysartisessa](https://medium.com/@claudneysartisessa) ·
+[claudneysartisessa@gmail.com](mailto:claudneysartisessa@gmail.com)
+
+---
+
+<details>
+<summary><b>🇧🇷 Versão em português</b></summary>
+
+<br>
+
+```console
+$ whoami
+claudney_sarti_sessa — desenvolvedor sênior · ERP e fiscal eletrônico · IA aplicada
+```
+
+**Portfólio →** <https://claudneysessa.github.io/?lang=pt>
+
+Bacharel em Sistemas de Informação, com **mais de 20 anos de experiência** em ERP
+e em sistemas voltados à área fiscal brasileira — com destaque para **documentos
+eletrônicos**. É um domínio que não perdoa erro: regra fiscal errada gera
+contingência, autuação e prejuízo real para quem depende do sistema.
+
+Sou **desenvolvedor sênior** e programo em **Delphi, Flutter e .NET**, e atuo com
+**IA aplicada e engenharia de prompts**. Os projetos abaixo são onde eu levo essa
+prática para o navegador — e onde mostro o raciocínio por trás da solução, não só
+o resultado.
+
+### Projetos
+
+Cinco projetos autorais com um fio condutor: **a inferência roda no navegador de
+quem visita**. Sem servidor de IA, sem conta, sem enviar dados para fora do
+dispositivo. Todos têm demonstração ao vivo e código aberto.
+
+**Modelos de linguagem no navegador**
+
+| Projeto | O que é | |
+|---|---|---|
+| **IAí?** | Chat com um modelo de linguagem executado inteiramente no navegador: conversas persistentes, pesquisa com citação de fontes e limpeza independente de histórico e de cache do modelo. | [demo](https://claudneysessa.github.io/in-browser-ai-chat/) · [código](https://github.com/claudneysessa/in-browser-ai-chat) |
+| **IA de Bolso** | O mesmo modelo e os mesmos parâmetros, no mínimo irredutível: três arquivos estáticos, zero dependências instaláveis e nenhuma etapa de build. | [demo](https://claudneysessa.github.io/pocket-browser-ai/) · [código](https://github.com/claudneysessa/pocket-browser-ai) |
+
+**Visão computacional no navegador**
+
+| Projeto | O que é | |
+|---|---|---|
+| **Libras Lab** | Reconhece imagens estáticas de letras do alfabeto manual de Libras, com modelo treinado por mim no Teachable Machine. Baseline v0.1 — **não** é um tradutor de Libras: Libras envolve movimento, espaço, expressão facial e gramática própria. | [demo](https://claudneysessa.github.io/libras-lab/) · [código](https://github.com/claudneysessa/libras-lab) |
+| **Cratebound** | Jogo de quebra-cabeça controlado por gestos captados pela webcam, em que a visão computacional é a interface. | [jogar](https://claudneysessa.github.io/cratebound/) · [código](https://github.com/claudneysessa/cratebound) |
+
+**Recomendação e dados**
+
+| Projeto | O que é | |
+|---|---|---|
+| **VincuPet** | Recomendação que cruza rotina, espaço e necessidades da família com o perfil de cada pet para apoiar uma adoção responsável, com compatibilidade explicável. Evolução de uma base acadêmica. | [demo](https://claudneysessa.github.io/vincupet/) · [código](https://github.com/claudneysessa/vincupet) |
+
+### Stack
+
+**Delphi / Object Pascal** e **.NET** nos sistemas de ERP e fiscal onde foi a
+maior parte das duas décadas. **Dart / Flutter** no mobile. **JavaScript,
+TypeScript, HTML e CSS** na web, que é onde vivem os experimentos de IA acima.
+
+A maior parte dessa experiência está em repositórios corporativos privados, então
+não aparece nas estatísticas de linguagem deste perfil.
+
+### Formação
+
+- **Engenharia de Software com IA Aplicada** — pós-graduação, em andamento
+- **Engenharia de Software** — pós-graduação
+- **Big Data e Analytics** — pós-graduação
+- **Sistemas de Informação** — bacharelado, FAESA
+
+### Onde me encontrar
+
+[github.com/claudneysessa](https://github.com/claudneysessa) ·
+[linkedin.com/in/claudneysessa](https://www.linkedin.com/in/claudneysessa/) ·
+[medium.com/@claudneysartisessa](https://medium.com/@claudneysartisessa) ·
+[claudneysartisessa@gmail.com](mailto:claudneysartisessa@gmail.com)
+
+</details>
