@@ -25,7 +25,7 @@ disagrees with itself.
 
 ## Stack
 
-**.NET** for enterprise systems, **Dart / Flutter** for mobile, and
+**Delphi** for legacy systems, **.NET** for enterprise systems, **Dart / Flutter** for mobile, and
 **JavaScript / TypeScript** on the web — which is where the AI experiments live.
 
 Most of that experience is in private corporate repositories, so it does not show
@@ -76,7 +76,7 @@ discorda de si mesma.
 
 ### Stack
 
-**.NET** em sistemas corporativos, **Dart / Flutter** no mobile e
+**Delphi** em sistemas legados, **.NET** em sistemas corporativos, **Dart / Flutter** no mobile e
 **JavaScript / TypeScript** na web — que é onde vivem os experimentos de IA.
 
 A maior parte dessa experiência está em repositórios corporativos privados, então
