@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 150" width="880" height="150" role="img" aria-label="Terminal: guest@crt:~$ claudney_sarti_sessa --portfolio">
+  <defs>
+    <!-- Linhas de varredura, na mesma sutileza do site: 1px a cada 5px. -->
+    <pattern id="scan" width="5" height="5" patternUnits="userSpaceOnUse">
+      <rect width="5" height="1" fill="#4ADE80" opacity="0.05"/>
+    </pattern>
+
+    <!-- Brilho do fósforo atrás do texto. -->
+    <radialGradient id="glow" cx="26%" cy="52%" r="60%">
+      <stop offset="0%" stop-color="#4ADE80" stop-opacity="0.14"/>
+      <stop offset="100%" stop-color="#4ADE80" stop-opacity="0"/>
+    </radialGradient>
+
+    <clipPath id="screen">
+      <rect x="1" y="1" width="878" height="148" rx="10"/>
+    </clipPath>
+  </defs>
+
+  <rect x="0.5" y="0.5" width="879" height="149" rx="10" fill="#05070A" stroke="#16221A"/>
+  <g clip-path="url(#screen)">
+    <rect width="880" height="150" fill="url(#glow)"/>
+    <rect width="880" height="150" fill="url(#scan)"/>
+    <rect x="0" y="0" width="880" height="34" fill="#080B0E"/>
+    <rect x="0" y="34" width="880" height="1" fill="#16221A"/>
+  </g>
+
+  <!-- Chrome de janela: dois apagados, um aceso. -->
+  <circle cx="28" cy="17" r="5" fill="#2A3D2F"/>
+  <circle cx="46" cy="17" r="5" fill="#2A3D2F"/>
+  <circle cx="64" cy="17" r="5" fill="#4ADE80"/>
+  <text x="86" y="21" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11" fill="#4F6B5B" letter-spacing="1.4">CRT-4200</text>
+
+  <!-- Linha de comando. textLength fixa a largura, então o cursor cai no lugar
+       mesmo que a monoespaçada do sistema tenha avanço diferente. -->
+  <text x="28" y="86" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="25" font-weight="500" textLength="700" lengthAdjust="spacingAndGlyphs">
+    <tspan fill="#4ADE80">guest@crt:~$</tspan><tspan fill="#E9FBEF"> claudney_sarti_sessa</tspan><tspan fill="#7E9C8B"> --portfolio</tspan>
+  </text>
+  <rect x="738" y="68" width="11" height="24" fill="#4ADE80"/>
+
+  <!-- Rodapé da tela. -->
+  <text x="28" y="122" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13">
+    <tspan fill="#4ADE80">--</tspan><tspan fill="#7E9C8B"> five AI projects that run in your own browser</tspan>
+  </text>
+  <text x="852" y="122" text-anchor="end" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" fill="#4ADE80">claudneysessa.github.io &#8599;</text>
+</svg>

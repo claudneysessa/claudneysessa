@@ -1,9 +1,9 @@
 # Claudney Sarti Sessa
 
-```console
-$ whoami
-claudney_sarti_sessa — senior developer · ERP & e-invoicing · applied AI
-```
+<a href="https://claudneysessa.github.io/">
+  <img src="./assets/banner.svg" width="880"
+       alt="Terminal: guest@crt:~$ claudney_sarti_sessa --portfolio — five AI projects that run in your own browser, at claudneysessa.github.io">
+</a>
 
 Bachelor's in Information Systems, with **over 20 years of experience** in ERP and
 systems built around Brazilian tax legislation — especially **electronic fiscal
@@ -53,10 +53,10 @@ up in this profile's language statistics.
 
 <br>
 
-```console
-$ whoami
-claudney_sarti_sessa — desenvolvedor sênior · ERP e fiscal eletrônico · IA aplicada
-```
+<a href="https://claudneysessa.github.io/?lang=pt">
+  <img src="./assets/banner.svg" width="880"
+       alt="Terminal: guest@crt:~$ claudney_sarti_sessa --portfolio — cinco projetos de IA que rodam no seu próprio navegador, em claudneysessa.github.io">
+</a>
 
 Bacharel em Sistemas de Informação, com **mais de 20 anos de experiência** em ERP
 e em sistemas voltados à área fiscal brasileira — com destaque para **documentos
